@@ -1,0 +1,40 @@
+
+Id:4
+Nome: JavaScript Intermediário
+Preço: 350.0
+Preço final: 350.0
+Plataforma: Coursera
+Possui suporte: false
+
+
+Id:2
+Nome: Python Avançado
+Preço: 400.0
+Preço final: 500.0
+Plataforma: Udemy
+Possui suporte: true
+
+
+Id:3
+Nome: C++ Estruturado
+Preço: 300.0
+Preço final: 900.0
+Local: Unidade Zona Norte
+Carga Horária: 30
+
+
+Id:1
+Nome: Java Básico
+Preço: 500.0
+Preço final: 1300.0
+Local: Unidade Centro
+Carga Horária: 40
+
+
+Id:5
+Nome: Algoritmos com C
+Preço: 450.0
+Preço final: 1450.0
+Local: Unidade Sul
+Carga Horária: 50
+

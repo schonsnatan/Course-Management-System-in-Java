@@ -1,0 +1,28 @@
+Nome: Lucas Mendes
+Curso: Algoritmos com C
+Media final: 6,00
+
+Nome: Pedro Santos
+Curso: C++ Estruturado
+Media final: 7,33
+
+Nome: Rafael Almeida
+Curso: Python Avançado
+Media final: 7,50
+
+Nome: Maria Oliveira
+Curso: Python Avançado
+Media final: 8,17
+
+Nome: João Silva
+Curso: Java Básico
+Media final: 8,33
+
+Nome: Ana Paula
+Curso: JavaScript Intermediário
+Media final: 8,50
+
+Nome: Fernanda Costa
+Curso: Java Básico
+Media final: 8,50
+
